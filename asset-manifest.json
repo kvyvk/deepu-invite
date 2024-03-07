@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/deepu-invite/static/css/main.eaaa0463.css",
-    "main.js": "/deepu-invite/static/js/main.a3b10c4a.js",
-    "static/js/453.8ad9585b.chunk.js": "/deepu-invite/static/js/453.8ad9585b.chunk.js",
+    "main.css": "/deepu-invite/static/css/main.406a279d.css",
+    "main.js": "/deepu-invite/static/js/main.6180b3c2.js",
+    "static/js/453.d80bb4e9.chunk.js": "/deepu-invite/static/js/453.d80bb4e9.chunk.js",
     "static/media/Deepuupanayanam.mp4": "/deepu-invite/static/media/Deepuupanayanam.48fa1fc579fa979f3225.mp4",
     "static/media/logo.svg": "/deepu-invite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/deepu-invite/index.html",
-    "main.eaaa0463.css.map": "/deepu-invite/static/css/main.eaaa0463.css.map",
-    "main.a3b10c4a.js.map": "/deepu-invite/static/js/main.a3b10c4a.js.map",
-    "453.8ad9585b.chunk.js.map": "/deepu-invite/static/js/453.8ad9585b.chunk.js.map"
+    "main.406a279d.css.map": "/deepu-invite/static/css/main.406a279d.css.map",
+    "main.6180b3c2.js.map": "/deepu-invite/static/js/main.6180b3c2.js.map",
+    "453.d80bb4e9.chunk.js.map": "/deepu-invite/static/js/453.d80bb4e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaaa0463.css",
-    "static/js/main.a3b10c4a.js"
+    "static/css/main.406a279d.css",
+    "static/js/main.6180b3c2.js"
   ]
 }
